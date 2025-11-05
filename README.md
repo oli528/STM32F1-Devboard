@@ -86,4 +86,4 @@ For a comprehensive walkthrough, see the following video: [YouTube – STM32F103
 
 ## Author
 
-Designed by [Your Name] – built for robust prototyping and open hardware experimentation.
+Designed by [Oliver Studman] – built for robust prototyping and open hardware experimentation.
