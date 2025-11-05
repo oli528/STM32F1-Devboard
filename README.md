@@ -80,8 +80,7 @@ For a comprehensive walkthrough, see the following video: [YouTube – STM32F103
 
 ## License
 
-- Hardware: **CERN Open Hardware Licence (CERN-OHL-W)**  
-- Firmware examples: **MIT License**
+- **MIT License**
 
 ---
 
