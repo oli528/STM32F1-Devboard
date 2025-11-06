@@ -73,7 +73,7 @@ For a comprehensive walkthrough, see the following video: [YouTube – STM32F103
 
 - `/hardware` — KiCad design files (schematics + PCB layout)  
 - `/firmware` — Example STM32 projects  
-- `/docs` — Datasheets, pinouts, and assembly instructions  
+- `/documents` — Datasheets, pinouts, and assembly instructions  
 - `/images` — Board renders and photographs  
 
 ---
